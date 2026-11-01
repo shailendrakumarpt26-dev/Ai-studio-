@@ -1,0 +1,6 @@
+{
+  "name": "Fan11",
+  "description": "Fantasy Cricket & Sports App - Build your dream XI, compete in mega contests, and track live matches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
